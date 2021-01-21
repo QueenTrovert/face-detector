@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/face-detector/static/css/main.8071205d.chunk.css",
+    "main.js": "/face-detector/static/js/main.b5bcb4fc.chunk.js",
+    "main.js.map": "/face-detector/static/js/main.b5bcb4fc.chunk.js.map",
+    "runtime-main.js": "/face-detector/static/js/runtime-main.33230fb1.js",
+    "runtime-main.js.map": "/face-detector/static/js/runtime-main.33230fb1.js.map",
+    "static/css/2.31461e4f.chunk.css": "/face-detector/static/css/2.31461e4f.chunk.css",
+    "static/js/2.c8000a80.chunk.js": "/face-detector/static/js/2.c8000a80.chunk.js",
+    "static/js/2.c8000a80.chunk.js.map": "/face-detector/static/js/2.c8000a80.chunk.js.map",
+    "static/js/3.cd9351e4.chunk.js": "/face-detector/static/js/3.cd9351e4.chunk.js",
+    "static/js/3.cd9351e4.chunk.js.map": "/face-detector/static/js/3.cd9351e4.chunk.js.map",
+    "index.html": "/face-detector/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/face-detector/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.8071205d.chunk.css.map": "/face-detector/static/css/main.8071205d.chunk.css.map",
+    "static/js/2.c8000a80.chunk.js.LICENSE.txt": "/face-detector/static/js/2.c8000a80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33230fb1.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.c8000a80.chunk.js",
+    "static/css/main.8071205d.chunk.css",
+    "static/js/main.b5bcb4fc.chunk.js"
+  ]
+}
