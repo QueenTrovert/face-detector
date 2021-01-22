@@ -61,9 +61,6 @@ class SignIn extends React.Component {
                         </div>
                     </main>
                 </article>
-
-
-
             </div>
 
         )
